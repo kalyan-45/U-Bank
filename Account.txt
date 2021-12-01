@@ -3,4 +3,4 @@ Account       Branch         B.Code
 80043721889   Shiradhon      1101
 12323444447   Dhoki          1108
 65783674755   Murud          1104
-64767386476   Latur          1110
+64767386476   Latur          1112
